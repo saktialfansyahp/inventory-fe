@@ -9,8 +9,7 @@ import "./assets/css/app.css";
 
 // loadFonts();
 
-axios.defaults.baseURL =
-  "https://inventory-2srom2hkb-saktialfansyahp.vercel.app/api";
+axios.defaults.baseURL = "https://inventory-be-beta.vercel.app/api";
 
 // Set header dari localStorage
 // const token = localStorage.getItem("token"); // Ganti 'token' dengan kunci yang Anda gunakan untuk menyimpan token di localStorage
