@@ -10,7 +10,7 @@ import "./assets/css/app.css";
 // loadFonts();
 
 axios.defaults.baseURL =
-  "https://inventory-cv2o63cxt-saktialfansyahp.vercel.app/api";
+  "https://inventory-2srom2hkb-saktialfansyahp.vercel.app/api";
 
 // Set header dari localStorage
 // const token = localStorage.getItem("token"); // Ganti 'token' dengan kunci yang Anda gunakan untuk menyimpan token di localStorage
